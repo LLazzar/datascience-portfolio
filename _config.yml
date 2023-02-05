@@ -5,7 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Second description 
   <br><br>
-  <img src="/datascience-portfolio/icon/linkedin.png><a href="https://www.linkedin.com/in/lorenzo-lazzari-869026232/">LinkedIn Profile</a>
+  <img src="https://lorenzolazzari98.github.io/datascience-portfolio/icon/linkedin.png><a href="https://www.linkedin.com/in/lorenzo-lazzari-869026232/">LinkedIn Profile</a>
   <br>
   <a href="/datascience-portfolio/documents/cv_lorenzo_lazzari1.pdf">Resume</a> 
 theme: jekyll-theme-minimal
