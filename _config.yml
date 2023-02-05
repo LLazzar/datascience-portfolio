@@ -5,9 +5,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Second description 
   <br><br>
-  <img src="https://lorenzolazzari98.github.io/datascience-portfolio/icon/linkedin.png" width="12" height="12"> 
+  <img src="https://lorenzolazzari98.github.io/datascience-portfolio/icon/linkedin.png" width="14" height="14"> 
   <a href="https://www.linkedin.com/in/lorenzo-lazzari-869026232/">LinkedIn Profile</a>
   <br>
+  <img src="https://lorenzolazzari98.github.io/datascience-portfolio/icon/cv.png" width="14" height="14"> 
   <a href="/datascience-portfolio/documents/cv_lorenzo_lazzari1.pdf">Resume</a> 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
