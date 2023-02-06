@@ -4,7 +4,7 @@
 
 #### • Commit Classification using NLP
 
-**Context** = *University Project*
+> **Context** = *University Project*
 
 **Keywords** = *Supervised Learning, NLP, Text Preprocessing (Stem, Lem), Text Vectorization (n-gram,skip-gram), Logistic Regression, Fasttext by Facebook*
 
