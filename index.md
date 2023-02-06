@@ -14,8 +14,5 @@
 > <br/><br/>
 ---
 <br/><br/>
+## • Some Other Project
 
----
-
-
----
