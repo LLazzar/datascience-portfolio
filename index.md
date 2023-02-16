@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/lorenzolazzari98/datascience-portfolio/master/images/header.jpg" width=310> 
+# <img src="https://raw.githubusercontent.com/lorenzolazzari98/datascience-portfolio/master/images/header.jpg" width=200> 
 ---
 
 ## • Commit Classification using NLP
