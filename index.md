@@ -1,4 +1,4 @@
-# Portfolio
+# <img src="https://raw.githubusercontent.com/lorenzolazzari98/commit-classification/main/figures/data_example.jpg" width=310> <img src="https://raw.githubusercontent.com/lorenzolazzari98/commit-classification/c15d9775b7d5c70bebbe9179780adbebece193de/figures/logit_confusion_matrix.png" width=120>
 ---
 
 ## • Commit Classification using NLP
