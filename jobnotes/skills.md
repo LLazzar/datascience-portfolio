@@ -3,3 +3,5 @@
 - Neutrino project, make only a notebook on feaure engineering, data flattenign preparation using panda's vectorization
 - A project in outlier detection (using MCD??)
 - Data scraping with dashboard for visualize job demand in barcelona
+- Live dashboard online following this insights: https://www.youtube.com/watch?v=pXH7h82UP6Q&ab_channel=DataScienceForBusiness (python code on AWS labda / or AZURE function)
+- SQL database of datascience company storing projects, developers, developer managr, wich developer on which projects.
