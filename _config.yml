@@ -7,6 +7,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/lorenzo-lazzari-869026232/">LinkedIn Profile</a>
   <br>
   <img src="https://lorenzolazzari98.github.io/datascience-portfolio/icon/cv.png" width="14" height="14"> 
-  <a href="/datascience-portfolio/documents/lorenzo_lazzari_cv.pdf">CV/Resumé</a> 
+  <a href="/datascience-portfolio/documents/lorenzo_lazzari_cv.pdf">CV/Resumé</a>
+  <br>
+  <img src="https://lorenzolazzari98.github.io/datascience-portfolio/icon/github.png" width="14" height="14"> 
+  <a href="https://github.com/lorenzolazzari98">Github</a> 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
