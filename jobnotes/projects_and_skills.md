@@ -5,3 +5,4 @@
 - Data scraping with dashboard for visualize job demand in barcelona
 - Live dashboard online following this insights: https://www.youtube.com/watch?v=pXH7h82UP6Q&ab_channel=DataScienceForBusiness (python code on AWS labda / or AZURE function)
 - SQL database of datascience company storing projects, developers, developer managr, wich developer on which projects.
+- Write an article on medium/twds/kaggle on why NN aren't a win-over-all algorithms, shows with example bets, show where they do right, thay automatically do feature selection???
