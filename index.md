@@ -6,7 +6,7 @@
 >>
 >> **Context** = *Personal project*
 >> 
->> **Keywords** = <code>Scraping</code> `NoSQL Database`, `Azure CosmosDB`, `Azure Functions`, `PowerBI`, `Español`
+>> **Keywords** = `Scraping` `NoSQL Database` `Azure CosmosDB` `Azure Functions` `PowerBI` `Español`
 > 
 > <img src="https://github.com/lorenzolazzari98/dash-profesion-data-es/blob/main/figures/cover.jpg?raw=true" width=430> 
 > 
@@ -19,7 +19,7 @@
 >>
 >> **Context** = *University Project*
 >> 
->> **Keywords** = *Supervised Learning, NLP, Text Preprocessing (Stem, Lem), Text Vectorization (n-gram,skip-gram), Logistic Regression, Fasttext by Facebook*
+>> **Keywords** = `Supervised Learning` `NLP` `Text Preprocessing (Stem, Lem)` `Text Vectorization (n-gram,skip-gram)` `Logistic Regression` `Fasttext by Facebook`
 > 
 > <img src="https://raw.githubusercontent.com/lorenzolazzari98/commit-classification/main/figures/data_example.jpg" width=310> <img src="https://raw.githubusercontent.com/lorenzolazzari98/commit-classification/c15d9775b7d5c70bebbe9179780adbebece193de/figures/logit_confusion_matrix.png" width=120 length=120>
 > 
