@@ -12,10 +12,9 @@
 > 
 > In this project...
 
+<br>
 
-
-
-## • Commit Classification using NLP
+# • Commit Classification using NLP
 >> [![](https://img.shields.io/badge/Github-View_on_Github-blue?logo=Github&style=flat-square)](https://github.com/lorenzolazzari98/commit-classification) [![](https://img.shields.io/badge/Jupyter-Open_main_notebook-orange?logo=jupyter&style=flat-square)](https://github.com/lorenzolazzari98/commit-classification/blob/main/scripts/Commit_Classification.ipynb) 
 >>
 >> **Context** = *University Project*
