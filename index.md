@@ -6,7 +6,7 @@
 >>
 >> **Context** = *Personal project*
 >> 
->> **Keywords** = *`Scraping`, `NoSQL Database`, `Azure CosmosDB`, `Azure Functions`, `PowerBI`, `Español`*
+>> **Keywords** = `Scraping`, `NoSQL Database`, `Azure CosmosDB`, `Azure Functions`, `PowerBI`, `Español`
 > 
 > <img src="https://github.com/lorenzolazzari98/dash-profesion-data-es/blob/main/figures/cover.jpg?raw=true" width=430> 
 > 
