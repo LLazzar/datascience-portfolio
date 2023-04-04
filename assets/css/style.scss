@@ -3,10 +3,14 @@
 
 @import "{{ site.theme }}";
 
-code {
+code { 
   background-color: #f4f4f4;
   border-radius: 4px;
   font-family: monospace;
   font-size: 0.9em;
   padding: 0.2em 0.4em;
+}
+
+header {
+  background-color: #f4f4f4;
 }
