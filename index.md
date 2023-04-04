@@ -1,5 +1,17 @@
 # <img src="https://raw.githubusercontent.com/lorenzolazzari98/datascience-portfolio/master/images/header.jpg" width=200> 
----
+
+
+## • Data profesion salary & offerings in Espana - Live Dashboard
+>> [![](https://img.shields.io/badge/Github-View_on_Github-blue?logo=Github&style=flat-square)](https://github.com/lorenzolazzari98/dash-profesion-data-es) [![](https://img.shields.io/badge/Powerbi-Open_live_dashboard-yellow?logo=powerbi&style=flat-square)](https://app.powerbi.com/view?r=eyJrIjoiZDM1Y2MyY2UtOTdkNi00YTZlLWFmMTYtMzY4ZGViN2IxOGVlIiwidCI6Ijc4NDg0MWU1LTAxYjEtNGQ5My04NzczLTUwYzcxYWI4NWMzYiIsImMiOjl9) 
+>>
+>> **Context** = *Personal project*
+>> 
+>> **Keywords** = *Scraping, NoSQL Database, Azure CosmosDB, Azure Functions, PowerBI, Español*
+> 
+> <img src="https://github.com/lorenzolazzari98/dash-profesion-data-es/blob/main/figures/cover.jpg?raw=true" width=310> 
+> 
+> In this project...
+
 
 ## • Commit Classification using NLP
 >> [![](https://img.shields.io/badge/Github-View_on_Github-blue?logo=Github&style=flat-square)](https://github.com/lorenzolazzari98/commit-classification) [![](https://img.shields.io/badge/Jupyter-Open_main_notebook-orange?logo=jupyter&style=flat-square)](https://github.com/lorenzolazzari98/commit-classification/blob/main/scripts/Commit_Classification.ipynb) 
