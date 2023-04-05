@@ -27,7 +27,12 @@ section {
 @media screen and (min-width: 1024px) {
   section {
     width: 700px;
+    float: right;
   }
+  
+  body {
+    width=100%;
+}
 
 }
 
