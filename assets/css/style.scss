@@ -25,12 +25,9 @@ section {
 
 /* Media query for desktop screens */
 @media screen and (min-width: 1024px) {
-  header {
-    width: 100%;
+  body {
+    width: 130%;
   }
-  
-  section {
-    width: 90%;
-  }
+
 }
 
