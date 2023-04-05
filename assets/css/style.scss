@@ -23,8 +23,31 @@ section {
   border-radius: 10px;
 }
 
-/* Default styles */
-body {
-  width: 100%;
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+header {
+  width: 80%;
+  max-width: 1200px;
+}
+
+section {
+  width: 80%;
+  max-width: 1200px;
+  margin-top: -50px; /* adjust as needed */
+}
+
+/* Media query for desktop screens */
+@media screen and (min-width: 1024px) {
+  header {
+    width: 100%;
+  }
+  
+  section {
+    width: 90%;
+  }
 }
 
