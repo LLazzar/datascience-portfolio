@@ -7,7 +7,8 @@
 > 
 > <img src="https://github.com/lorenzolazzari98/dash-profesion-data-es/blob/main/figures/cover.jpg?raw=true" width=430> 
 > 
-> In this project...
+> This project aims to create a publicly accessible Power BI dashboard that displays real-time data about job offers and salaries in the data field, specifically in Spain. The dashboard provides historical records of the data and analyzes four main job categories: Data Engineer, Data Scientist, Data Analyst, and Business Analyst. This is achieved by deploying an Azure Function to scrape data from glassdoor.es, the Spanish version of Glassdoor, using Beautiful Soup, which is triggered daily by a timer. The data is then uploaded to an Azure Cosmos DB NoSQL database and accessed by Power BI to generate visualizations for the dashboard. The dashboard refreshes daily to reflect the new data loaded into the database. The live dashboard is available [here](https://app.powerbi.com/view?r=eyJrIjoiZDM1Y2MyY2UtOTdkNi00YTZlLWFmMTYtMzY4ZGViN2IxOGVlIiwidCI6Ijc4NDg0MWU1LTAxYjEtNGQ5My04NzczLTUwYzcxYWI4NWMzYiIsImMiOjl9)
+> 
 
 <br>
 
