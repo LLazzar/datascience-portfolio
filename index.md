@@ -24,5 +24,3 @@
 > In this project, I aimed to replicate the work done in [this paper](https://raw.githubusercontent.com/lorenzolazzari98/commit-classification/c15d9775b7d5c70bebbe9179780adbebece193de/reference/paper.pdf). The project started with a 5-class labeled dataset of commit messages, and classical NLP techniques such as data cleaning and feature extraction were used to preprocess the data. Then, several baseline classification models were fitted and evaluated. One of the models was chosen and fine-tuned using RepeatedKFold validation. Finally, the chosen model (a logistic regression) was evaluated on the test set to measure its performance.
 > 
 
-## • ....
-
