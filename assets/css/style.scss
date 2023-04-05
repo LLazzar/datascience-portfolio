@@ -25,8 +25,8 @@ section {
 
 /* Media query for desktop screens */
 @media screen and (min-width: 1024px) {
-  body {
-    width: 130%;
+  section {
+    width: 700px;
   }
 
 }
