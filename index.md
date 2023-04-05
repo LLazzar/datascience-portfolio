@@ -1,4 +1,4 @@
-## • Data profesion salary & offerings in Espana - Live Dashboard
+## • Spain Data Job Dashboard
 >> [![](https://img.shields.io/badge/Github-View_on_Github-blue?logo=Github&style=flat-square)](https://github.com/lorenzolazzari98/dash-profesion-data-es) [![](https://img.shields.io/badge/Powerbi-Open_live_dashboard-yellow?logo=powerbi&style=flat-square)](https://app.powerbi.com/view?r=eyJrIjoiZDM1Y2MyY2UtOTdkNi00YTZlLWFmMTYtMzY4ZGViN2IxOGVlIiwidCI6Ijc4NDg0MWU1LTAxYjEtNGQ5My04NzczLTUwYzcxYWI4NWMzYiIsImMiOjl9) 
 >>
 >> **Context** = *Personal project*
