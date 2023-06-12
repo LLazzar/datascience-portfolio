@@ -5,7 +5,7 @@
 >> 
 >> **Keywords** = `ML classifiers` `Diagnostic` `Visualizations Tools` `R Package Development` `Silhouttes` `High Dimensional Data` `Genomics` `Genomics` `RNA-seq pipelines` `Research`
 > 
-> <img src="https://github.com/llazzar/dash-profesion-data-es/blob/main/figures/cover.jpg?raw=true" width=430> 
+> <img src="https://raw.githubusercontent.com/LLazzar/datascience-portfolio/master/projectsMetadata/masterThesis/masterthesis_project.png" width=430> 
 > 
 > In my ongoing master's thesis, I explore novel machine learning (ML) visualization tools like Silhouettes, Class Maps, and Quasi-residual plots, accessible via the R "classmap" package. A new tool, MDScolorscale, is introduced to further enhance these visualization methods. This work also develops a versatile function that allows the use of these graphical tools for almost any ML classifier, extending their current applicability. An extension package named ["classmapExt"](https://github.com/LLazzar/classmapExt) is released. Practical application of these methods is illustrated by using them to diagnose gene-expression-based cancer classifications with the Nearest Shrunken Centroid Classifier and the XGBoost classifier. Draft of paper along with drafts of data analysis demonstrating the visualizations adapted for the methods are available at the links
 > 
