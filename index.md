@@ -1,4 +1,18 @@
 ## • Spain Data Job Dashboard
+>> [![](https://img.shields.io/badge/Github-classmapExt_R_package-blue?logo=Github&style=flat-square)](https://github.com/llazzar/classmapExt) [![](https://img.shields.io/badge/PDF-Paper_draft-red?logo=adobeacrobatreader&style=flat-square)](https://llazzar.github.io/datascience-portfolio/projectsMetadata/masterThesis/draft_paper.pdf) [![](https://img.shields.io/badge/R-NSC_data_classification_draft-9cf?logo=rstudio&style=flat-square)](https://llazzar.github.io/datascience-portfolio/projectsMetadata/masterThesis/PAMR_analysis.html)
+>>
+>> **Context** = *Master Research Thesis*
+>> 
+>> **Keywords** = `ML classifiers` `Diagnostic` `Visualizations Tools` `R Package Development` `Silhouttes` `High Dimensional Data` `Genomics` `Genomics` `RNA-seq pipelines` `Research`
+> 
+> <img src="https://github.com/llazzar/dash-profesion-data-es/blob/main/figures/cover.jpg?raw=true" width=430> 
+> 
+> In my ongoing master's thesis, I explore novel machine learning (ML) visualization tools like Silhouettes, Class Maps, and Quasi-residual plots, accessible via the R "classmap" package. A new tool, MDScolorscale, is introduced to further enhance these visualization methods. This work also develops a versatile function that allows the use of these graphical tools for almost any ML classifier, extending their current applicability. An extension package named ["classmapExt"](https://github.com/LLazzar/classmapExt) is released. Practical application of these methods is illustrated by using them to diagnose gene-expression-based cancer classifications with the Nearest Shrunken Centroid Classifier and the XGBoost classifier. Draft of paper along with drafts of data analysis demonstrating the visualizations adapted for the methods are available at the links
+> 
+
+<br>
+
+## • Spain Data Job Dashboard
 >> [![](https://img.shields.io/badge/Github-View_on_Github-blue?logo=Github&style=flat-square)](https://github.com/llazzar/dash-profesion-data-es) [![](https://img.shields.io/badge/Powerbi-Open_live_dashboard-yellow?logo=powerBI&style=flat-square)](https://app.powerbi.com/view?r=eyJrIjoiZDM1Y2MyY2UtOTdkNi00YTZlLWFmMTYtMzY4ZGViN2IxOGVlIiwidCI6Ijc4NDg0MWU1LTAxYjEtNGQ5My04NzczLTUwYzcxYWI4NWMzYiIsImMiOjl9) 
 >>
 >> **Context** = *Personal project*
