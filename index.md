@@ -3,7 +3,7 @@
 >>
 >> **Context** = *Master Research Thesis*
 >> 
->> **Keywords** = `ML classifiers` `Diagnostic` `Visualizations Tools` `R Package Development` `Silhouttes` `High Dimensional Data` `Genomics` `Genomics` `RNA-seq pipelines` `Research`
+>> **Keywords** = `ML classifiers` `Diagnostic` `Visualizations Tools` `R Package Development` `Silhouttes` `High Dimensional Data` `Genomics` `RNA-seq pipelines` `Research`
 > 
 > <img src="https://raw.githubusercontent.com/LLazzar/datascience-portfolio/master/projectsMetadata/masterThesis/masterthesis_project.png" width=430> 
 > 
