@@ -6,7 +6,7 @@
 >> **Keywords** = `Information Retrieval` `LLMs` `Fine-tuning` `NLP`
 > <img src="https://raw.githubusercontent.com/LLazzar/datascience-portfolio/master/projectsMetadata/ev_hybrid_search_system/clin_poster_image_preview.jpg" width=430>
 >
-> This work presents an Information Retrieval (IR) solution designed to assist analysts in efficiently retrieving CSR-related information from large multilingual company documents. The system combines a **scalable traditional search engine** with a **Large Language Model (LLM) reranking and filtering** step to improve precision. Two approaches were explored:  
+> This work presents an Information Retrieval (IR) solution designed to assist sustainability analysts in efficiently retrieving CSR-related information from large multilingual company documents. The system combines a **scalable traditional search engine** with a **Large Language Model (LLM) reranking and filtering** step to improve precision. Two approaches were explored:  
 >  
 > - **Unsupervised Prompt Engineering** using GPT-4 for reranking and filtering.  
 > - **Fine-tuning a smaller LLaMA3-8B model**, leveraging analyst feedback for continuous learning and improving relevance scoring.  
