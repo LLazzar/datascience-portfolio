@@ -3,13 +3,13 @@
 >>
 >> **Context** = *Industry Research Poster Presentation at CLIN 2024 (The 34th Meeting of Computational Linguistics in The Netherlands, Leiden)*
 >> 
->> **Keywords** = `Information Retrieval` `LLMs` `Fine-tuning` `NLP`
+>> **Keywords** = `Information Retrieval` `LLMs` `Fine-tuning` `NLP` `OpenAI` `Meta`
 > <img src="https://raw.githubusercontent.com/LLazzar/datascience-portfolio/master/projectsMetadata/ev_hybrid_search_system/clin_poster_image_preview.jpg" width=430>
 >
-> This work presents an Information Retrieval (IR) solution designed to assist sustainability analysts in efficiently retrieving CSR-related information from large multilingual company documents. The system combines a **scalable traditional search engine** with a **Large Language Model (LLM) reranking and filtering** step to improve precision. Two approaches were explored:  
+> Poster that presesents an Information Retrieval (IR) solution designed to assist sustainability analysts in efficiently retrieving CSR-related information from large multilingual company documents. The system combines a scalable traditional search engine with a Large Language Model (LLM) reranking and filtering step to improve precision. Two approaches were explored:  
 >  
-> - **Unsupervised Prompt Engineering** using GPT-4 for reranking and filtering.  
-> - **Fine-tuning a smaller LLaMA3-8B model**, leveraging analyst feedback for continuous learning and improving relevance scoring.  
+> - Unsupervised Prompt Engineering using GPT-4 for reranking and filtering.  
+> - Fine-tuning a smaller LLaMA3-8B model, leveraging analyst feedback for continuous learning and improving relevance scoring.  
 >  
 > The results demonstrate that fine-tuned, task-specific LLMs can achieve comparable performance to much larger, resource-intensive models. The full details and methodology are available in the CLIN 2024 poster. 
 
