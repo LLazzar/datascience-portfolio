@@ -16,7 +16,7 @@
 <br>
 
 ## • Graphical displays to better understand ML classifiers results
->> [![](https://img.shields.io/badge/Github-classmapExt_R_package-blue?logo=Github&style=flat-square)](https://github.com/llazzar/classmapExt) [![](https://img.shields.io/badge/PDF-Paper_draft-red?logo=adobeacrobatreader&style=flat-square)](https://llazzar.github.io/datascience-portfolio/projectsMetadata/masterThesis/draft_paper.pdf) [![](https://img.shields.io/badge/md-NSC_data_classification_draft-9cf?logo=rstudio&style=flat-square)](https://llazzar.github.io/datascience-portfolio/projectsMetadata/masterThesis/PAMR_analysis.html) [![](https://img.shields.io/badge/md-EDA_draft-9cf?logo=rstudio&style=flat-square)](https://llazzar.github.io/datascience-portfolio/projectsMetadata/masterThesis/EDA_lung_with_cov.html) 
+>> [![](https://img.shields.io/badge/Github-classmapExt_R_package-blue?logo=Github&style=flat-square)](https://github.com/llazzar/classmapExt) [![](https://img.shields.io/badge/PDF-Thesis-red?logo=adobeacrobatreader&style=flat-square)](https://llazzar.github.io/datascience-portfolio/projectsMetadata/masterThesis/master_thesis.pdf) [![](https://img.shields.io/badge/PDF-Slides-red?logo=adobeacrobatreader&style=flat-square)](https://llazzar.github.io/datascience-portfolio/projectsMetadata/masterThesis/master_thesis-slides.pdf) [![](https://img.shields.io/badge/md-NSC_data_classification_draft-9cf?logo=rstudio&style=flat-square)](https://llazzar.github.io/datascience-portfolio/projectsMetadata/masterThesis/PAMR_analysis.html) [![](https://img.shields.io/badge/md-EDA_draft-9cf?logo=rstudio&style=flat-square)](https://llazzar.github.io/datascience-portfolio/projectsMetadata/masterThesis/EDA_lung_with_cov.html) 
 >>
 >> **Context** = *Master Research Thesis*
 >> 
@@ -30,7 +30,7 @@
 <br>
 
 ## • Spain Data Job Dashboard
->> [![](https://img.shields.io/badge/Github-View_on_Github-blue?logo=Github&style=flat-square)](https://github.com/llazzar/dash-profesion-data-es) [![](https://img.shields.io/badge/Powerbi-Open_live_dashboard-yellow?logo=powerBI&style=flat-square)](https://app.powerbi.com/view?r=eyJrIjoiZDM1Y2MyY2UtOTdkNi00YTZlLWFmMTYtMzY4ZGViN2IxOGVlIiwidCI6Ijc4NDg0MWU1LTAxYjEtNGQ5My04NzczLTUwYzcxYWI4NWMzYiIsImMiOjl9) 
+>> [![](https://img.shields.io/badge/Github-View_on_Github-blue?logo=Github&style=flat-square)](https://github.com/llazzar/dash-profesion-data-es) [![](https://img.shields.io/badge/Powerbi-Open_live_dashboard_(down)-yellow?logo=powerBI&style=flat-square)](https://app.powerbi.com/view?r=eyJrIjoiZDM1Y2MyY2UtOTdkNi00YTZlLWFmMTYtMzY4ZGViN2IxOGVlIiwidCI6Ijc4NDg0MWU1LTAxYjEtNGQ5My04NzczLTUwYzcxYWI4NWMzYiIsImMiOjl9) 
 >>
 >> **Context** = *Personal project*
 >> 
